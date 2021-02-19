@@ -23,7 +23,7 @@ name                     : "Mia"
 description              : "An amazing website."
 url                      : "https://eunmipark-1.github.io/2021_blog/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : eunmipark-1/2021_blog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
