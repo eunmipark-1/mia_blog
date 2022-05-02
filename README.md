@@ -46,3 +46,10 @@ _기울임체2_
 ---
 
 `simple code`
+
+```
+ 긴코드 사용할때 
+ function(){
+    js code
+ }
+```
