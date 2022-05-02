@@ -28,4 +28,4 @@ _기울임체2_
 3. list 3
 4. list 4
   1.sublist 1
-  2.subkust 2
+  2.sublist 2
