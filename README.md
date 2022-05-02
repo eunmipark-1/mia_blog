@@ -27,5 +27,5 @@ _기울임체2_
 2. list 2
 3. list 3
 4. list 4
-  1. sublist 1
-  2. sublist 2
+  1.sublist 1
+  2. list 2
