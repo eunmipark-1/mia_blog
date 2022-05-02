@@ -23,12 +23,13 @@ _기울임체2_
 * list 2
 * list 3
 
-1. list 1
-2. list 2
-3. list 3
-4. list 4
-    1. sublist 1
-    2. sublist 2
+1. Step 1
+2. Step 2
+3. Step 3
+    1. Step 3.1
+    2. Step 3.2
+    3. Step 3.3
+
   
 - **리스트제목1** : 
 - **리스트제목2** : 
