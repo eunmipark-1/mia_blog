@@ -107,3 +107,16 @@ hsl : 알파값 핸들링하기가 편리하다.  ex: hsl (230 35% 7% / .5)
     <div class="example-component text-white" style="padding:1rem;">light blue bg, with a 20% alpha and white text</div>
 </div>
 ```
+
+
+## Typography part ##
+
+
+## numbered Title ##  
+
+
+## interacitve elements ## 
+
+
+
+## underline indicators ## 
